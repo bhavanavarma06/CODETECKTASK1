@@ -1,10 +1,11 @@
 # CODETECKTASK1
  Personal Portfolio Website Documentation 
 
-Overview:
+Description:
 The Personal Portfolio Website is a simple yet visually appealing website designed to showcase an individual's skills, experience, and projects. It incorporates HTML for structure, CSS for styling, and JavaScript for interactivity, including smooth scrolling and a contact form.
 
-HTML Structure (index.html):
+Technologies used:
+1)HTML Structure (index.html):
 The HTML file provides the structure for the portfolio website. It consists of the following main sections:
 
 Header Section (header):
@@ -27,7 +28,8 @@ Footer Section (footer):
 
 Contains copyright information and other relevant details.
 Provides additional links or information if needed.
-CSS Styling (styles.css):
+
+2)CSS Styling (styles.css):
 The CSS file defines the styles and layout for the portfolio website. It includes the following key styles:
 
 Basic Styling:
@@ -50,7 +52,8 @@ Button Styling:
 
 Styles buttons with background color, text color, padding, border, and border-radius.
 Applies hover effects to enhance interactivity and visual feedback.
-JavaScript Functionality (script.js):
+
+3)JavaScript Functionality (script.js):
 The JavaScript file adds interactivity and functionality to the portfolio website. It includes the following key features:
 
 Smooth Scrolling:
