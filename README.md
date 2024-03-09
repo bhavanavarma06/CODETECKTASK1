@@ -61,6 +61,7 @@ Form Submission:
 
 Handles form submission when users submit the contact form.
 Prevents the default form submission behavior and provides an alert message for demonstration purposes.
+
 Usage:
 To use the Personal Portfolio Website:
 
